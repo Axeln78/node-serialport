@@ -1,7 +1,8 @@
 {
   "name": "@serialport/stream",
   "version": "2.0.1",
-  "main": "stream.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "dependencies": {
     "@serialport/binding-mock": "^2.0.1",
     "debug": "^4.0.1"

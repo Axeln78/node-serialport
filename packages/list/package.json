@@ -1,9 +1,10 @@
 {
   "name": "@serialport/list",
   "version": "1.0.0",
-  "main": "lib/list.js",
+  "main": "dist/list.js",
+  "types": "dist/list.d.ts",
   "bin": {
-    "serialport-list": "./lib/list.js"
+    "serialport-list": "dist/list.js"
   },
   "dependencies": {
     "commander": "^2.13.0",

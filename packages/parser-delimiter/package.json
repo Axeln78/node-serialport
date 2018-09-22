@@ -1,6 +1,7 @@
 {
   "name": "@serialport/parser-delimiter",
-  "main": "delimiter.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "version": "2.0.1",
   "engines": {
     "node": ">=6.0.0"
